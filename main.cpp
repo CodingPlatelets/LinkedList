@@ -20,6 +20,7 @@ void Ldelete(List *pList);
 
 int main ()
 {
+    printf("Hello");
 	// Node *head = NULL;
 	List list;
 	list.head= NULL;
